@@ -41,3 +41,6 @@ Trends in Updates & App Size
 7.Limited bandwidth environments
 
 8.This reinforces the need for performance and size optimization.
+
+<img width="740" height="457" alt="03_New" src="https://github.com/user-attachments/assets/6a528f82-fb26-4a16-b7bf-415d7eed920d" />
+
